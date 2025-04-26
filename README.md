@@ -48,12 +48,19 @@ npm start
 
 src/
 ├── components/         # Reusable components (Modals, Lists, Forms)
+
 ├── projects/           # Project logic (slice, form, views)
+
 ├── tasks/              # Task logic and task board
+
 ├── employees/          # Employee management
+
 ├── store/              # Redux store setup
+
 ├── App.js
+
 ├── index.js
+
 └── styles/
 
 ## Future Enhancement
