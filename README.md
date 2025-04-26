@@ -37,6 +37,7 @@ Make sure you have **Node.js** and **npm** or **yarn** installed.
 
 ### Installation
 
+https://github.com/Jayashree317/PowerSoft-Techno-Solution/blob/main/README.md
 cd powersoftdashboard  
 npm install
 
@@ -47,6 +48,7 @@ npm start
 ## Folder Structure
 
 src/
+
 ├── components/         # Reusable components (Modals, Lists, Forms)
 
 ├── projects/           # Project logic (slice, form, views)
